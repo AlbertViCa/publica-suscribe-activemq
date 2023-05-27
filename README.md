@@ -168,6 +168,10 @@ Sigue las siguientes instrucciones para ejecutar los diferentes componentes del 
 ## Autores del Entregable 2 - Arquitectura Publica-Suscribe
 
 * **Alberto Villalpando Cardona**
+* **Naylea Castrellon Martinez **
+* **Miguel Angel Montoya  Celestino**
+* **Erick Figueroa Terrones**
+* **Elizondo Regino Arturo Yared**
 
 ## Autores Originales
 
